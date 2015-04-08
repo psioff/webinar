@@ -5,5 +5,5 @@ To think
 Optimizations
 -------------
 * implement server based on an iptables
-* pcap based implementation
+* "gopacket" based implementation
 
